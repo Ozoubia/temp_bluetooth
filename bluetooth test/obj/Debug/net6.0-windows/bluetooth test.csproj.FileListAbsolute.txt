@@ -1,0 +1,32 @@
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\bluetooth test.exe
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\bluetooth test.deps.json
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\bluetooth test.runtimeconfig.json
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\bluetooth test.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\bluetooth test.pdb
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.csproj.AssemblyReference.cache
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test_MarkupCompile.cache
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test_MarkupCompile.lref
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.g.resources
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.AssemblyInfoInputs.cache
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.AssemblyInfo.cs
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.csproj.CoreCompileInputs.cache
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.csproj.CopyComplete
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\refint\bluetooth test.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.pdb
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\bluetooth test.genruntimeconfig.cache
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\ref\bluetooth test.dll
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\page1.g.cs
+C:\Users\zoubi\source\repos\bluetooth test\bluetooth test\obj\Debug\net6.0-windows\page1.baml

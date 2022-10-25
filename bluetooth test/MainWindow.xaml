@@ -1,0 +1,32 @@
+﻿<Window x:Class="bluetooth_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bluetooth_test"
+        mc:Ignorable="d"
+        Title="Bluetooth" Height="450" Width="300">
+    <StackPanel Margin="20" Orientation="Vertical" >
+        <StackPanel Orientation="Horizontal" Margin="0 20 0 0">
+            <ComboBox x:Name="PortsCBox" Background="Red" Width="100" Height="20">
+                
+            </ComboBox>
+            <Button x:Name="getPortsBtn" Click="getPortsBtn_Click" Content="Get ports"  Height="20" Width="60" Margin="10 0 0 0"></Button>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 20 0 0">
+            <TextBlock Text="Baud Rate"></TextBlock>
+            <TextBox x:Name="baudRateBox" Width="50" Margin="20 0 0 0"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 20 0 0">
+            <Button x:Name="connectBtn" Click="connectBtn_Click" Content="Connect" Width="70" Height="20" ></Button>
+            <Button x:Name="disconnectBtn" Click="disconnectBtn_Click" Content="Disconnect" Width="70" Height="20" Margin="20 0 0 0"></Button>
+            
+        </StackPanel>
+
+        <TextBlock x:Name="content" Height="100" Margin="0 20 0 0" > </TextBlock>
+
+        <Button Margin="0 20 0 0" x:Name="emptyField" Click="emptyField_Click" Width="70" Height="20" Content="Reset"></Button>
+    </StackPanel>
+</Window>
